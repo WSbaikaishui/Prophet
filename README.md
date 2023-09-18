@@ -1,6 +1,6 @@
 ### Prophet
 
-Prophet can earn.
+Prophet can earn.(now we build on n3Testnet,so you can use test gas to test it)
 
 #### Proposition
 
